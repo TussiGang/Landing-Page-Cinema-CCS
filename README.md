@@ -1,4 +1,4 @@
-Landing Landing Page Cinema CCS
+Landing Page Cinema CCS
 
 Repositorio en GitHub con Landing Page con CCS
 
